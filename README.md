@@ -4,11 +4,6 @@
 A modern, responsive BMI calculator with unit conversion, dark mode, and stylish glassmorphism UI — built using HTML, CSS, and JavaScript.
 
 
-## 🔗 Live Demo
-
-👉 [https://shailu0720.github.io/bmi-calculator/](https://shailu0720.github.io/bmi-calculator/)
-
-
 ## 🖼️ Preview
 
 ![BMI Calculator Screenshot](screenshot.png)
@@ -34,12 +29,3 @@ A modern, responsive BMI calculator with unit conversion, dark mode, and stylish
 
 ---
 
-## ✨ Author
-
-Made with ❤️ by [P Shailaja](https://github.com/shailu0720)
-
----
-
-## 📄 License
-
-MIT License – free to use and modify.
