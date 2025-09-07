@@ -7,6 +7,7 @@ A modern, responsive BMI calculator with unit conversion, dark mode, and stylish
 ## 🖼️ Preview
 
 ![BMI Calculator Screenshot](screenshot.png)
+<img width="1899" height="1065" alt="screenshot" src="https://github.com/user-attachments/assets/8dfb8cef-4b49-4234-bd2b-d988e270f0e5" />
 
 
 ## ⚙️ Features
